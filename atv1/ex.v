@@ -1,4 +1,4 @@
-//Alunos: Pedro Augusto, Carolina Morais, João Vitor.
+//Alunos: Pedro Augusto Gonçalves, Carolina Morais, João Vitor.
 
 //Contado que o motor esteja a direita da area
 //Se Fe for 0 e Fd 0 a lona esta se movimentando, ou seja a area esta sendo coberta ou fechada
