@@ -1,0 +1,5 @@
+#.gitignore
+
+#Arquivos
+*.out
+*.pdf

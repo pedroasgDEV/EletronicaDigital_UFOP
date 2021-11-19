@@ -1,0 +1,87 @@
+$date
+	Fri Nov 19 09:49:06 2021
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module top $end
+$var reg 1 ! L $end
+$upscope $end
+$scope module top $end
+$var reg 1 " U $end
+$upscope $end
+$scope module top $end
+$var reg 1 # Fe $end
+$upscope $end
+$scope module top $end
+$var reg 1 $ Fd $end
+$upscope $end
+$scope module top $end
+$var wire 1 % A $end
+$upscope $end
+$scope module top $end
+$var wire 1 & B $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+1&
+0%
+0$
+0#
+0"
+0!
+$end
+#1
+0&
+1$
+#2
+1&
+1#
+0$
+#3
+0&
+1$
+#4
+1%
+1"
+0#
+0$
+#5
+1$
+#6
+0%
+1#
+0$
+#7
+1$
+#8
+1%
+1!
+0"
+0#
+0$
+#9
+1$
+#10
+0%
+1#
+0$
+#11
+1$
+#12
+1%
+1"
+0#
+0$
+#13
+1$
+#14
+0%
+1#
+0$
+#15
+1$
