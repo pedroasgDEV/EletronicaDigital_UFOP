@@ -31,7 +31,7 @@ L U Fe Fd A B
 */
 
 
-module cobrir(L, U, Fe, Fd, A, B);
+module act_motor(L, U, Fe, Fd, A, B);
     input L, U, Fe, Fd;
     output reg A, B;
 
@@ -54,7 +54,7 @@ module top;
     reg L, U, Fe, Fd;
     wire A, B;
 
-    cobrir cob(.L(L), .U(U), .Fe(Fe), .Fd(Fd), .A(A), .B(B));
+    act_motor act(.L(L), .U(U), .Fe(Fe), .Fd(Fd), .A(A), .B(B));
 
     initial 
         begin
