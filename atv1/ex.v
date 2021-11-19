@@ -63,7 +63,7 @@ module top;
 
     always 
         begin
-            #1 {L, U, Fe, Fd} = {L, U, Fe, Fd} + 1;
+            #1 {L, U, Fe, Fd}++;
         end
     
     initial 
