@@ -1,5 +1,3 @@
-//Alunos: Pedro Augusto Gonçalves, Carolina Morais, João Vitor.
-
 //Contado que o motor esteja a direita da area
 //Se Fe for 0 e Fd 0 a lona esta se movimentando, ou seja a area esta sendo coberta ou fechada
 //Se Fe for 1 e Fd 0 a lona esta tocando o canto esquerdo da area, ou seja a area esta coberta
