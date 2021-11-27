@@ -1,0 +1,84 @@
+$date
+	Sat Nov 27 19:13:32 2021
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module top $end
+$var wire 1 ! V2e $end
+$var wire 1 " V2d $end
+$var wire 1 # V1e $end
+$var wire 1 $ V1d $end
+$var reg 4 % ang [3:0] $end
+$scope module act $end
+$var wire 4 & ang [3:0] $end
+$var reg 1 $ V1d $end
+$var reg 1 # V1e $end
+$var reg 1 " V2d $end
+$var reg 1 ! V2e $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b0 &
+b0 %
+0$
+0#
+0"
+0!
+$end
+#1
+1$
+b1 %
+b1 &
+#2
+b10 %
+b10 &
+#3
+b11 %
+b11 &
+#4
+1"
+b100 %
+b100 &
+#5
+b101 %
+b101 &
+#6
+b110 %
+b110 &
+#7
+b111 %
+b111 &
+#8
+0"
+0$
+b1000 %
+b1000 &
+#9
+1#
+b1001 %
+b1001 &
+#10
+b1010 %
+b1010 &
+#11
+b1011 %
+b1011 &
+#12
+1!
+b1100 %
+b1100 &
+#13
+b1101 %
+b1101 &
+#14
+b1110 %
+b1110 &
+#15
+b1111 %
+b1111 &
