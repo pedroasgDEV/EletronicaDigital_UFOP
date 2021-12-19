@@ -45,7 +45,7 @@ module top;
     initial 
         begin
             {clk, reset} = 0;
-            #42 reset = 1;
+            #50 reset = 1;
             #3 reset = 0;
             #19 $stop;
         end
